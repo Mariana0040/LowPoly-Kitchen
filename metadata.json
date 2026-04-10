@@ -1,0 +1,5 @@
+{
+  "name": "LowPoly Kitchen Planner",
+  "description": "A 3D layout tool to organize game level kitchens. Features Unity-like gizmos, texture customization, and image reference overlay.",
+  "requestFramePermissions": []
+}
